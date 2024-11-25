@@ -103,27 +103,3 @@ data with the future versions of ta is not guaranteed because internal implement
 ```
 cargo bench
 ```
-
-## Donations
-
-You can support the project by donating [NEAR tokens](https://near.org).
-
-Our NEAR wallet address is `ta-rs.near`
-
-
-## License
-
-[MIT](https://github.com/greyblake/ta-rs/blob/master/LICENSE) © [Sergey Potapov](http://greyblake.com/)
-
-
-## Contributors
-
-- [greyblake](https://github.com/greyblake) Potapov Sergey - creator, maintainer.
-- [Bartoshko](https://github.com/Bartoshko) - BollingerBands
-- [shreyasdeotare](https://github.com/shreyasdeotare) Shreyas Deotare - MoneyFlowIndex, OnBalanceVolume
-- [edwardycl](https://github.com/edwardycl) - StandardDeviation Implementation & More Efficient BollingerBands
-- [rideron89](https://github.com/rideron89) Ron Rider - Keltner Channel
-- [tirz](https://github.com/tirz) - CCI, CE, MAD, PPO, refactorings
-- [Devin Gunay](https://github.com/dgunay) - serde support
-- [Youngchan Lee](https://github.com/edwardycl) - bugfix
-- [tommady](https://github.com/tommady) - get rid of error-chain dependency
